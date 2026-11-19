@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.blend[0-9]*
+*.fantome
+/skin/Gwen1/*.blend
+/tool/
+/source/Gwen1/rig-study/
+/source/Gwen1/recall/build/
+/source/Gwen1/vfx/build/
+/source/Gwen1/vfx/stock/
+/source/Gwen1/vfx/preview-frames/
+/source/Gwen1/plush_2233/build/
